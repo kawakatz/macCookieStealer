@@ -28,3 +28,6 @@ on a victim's machine
 
 and import the output to CookieQuickManager.<br>
 CookieQuickManager: https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/
+
+# Basic Idea
+https://github.com/defaultnamehere/cookie_crimes
